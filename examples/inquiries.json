@@ -1,0 +1,10 @@
+[
+  {"id":"DEMO-001","channel":"voice","category":"new_booking","priority":"normal","follow_up_required":true,"opportunity":true},
+  {"id":"DEMO-002","channel":"web_chat","category":"existing_booking","priority":"low","follow_up_required":false,"opportunity":false},
+  {"id":"DEMO-003","channel":"email","category":"service_request","priority":"urgent","follow_up_required":true,"opportunity":false},
+  {"id":"DEMO-004","channel":"voice","category":"sales","priority":"normal","follow_up_required":true,"opportunity":true},
+  {"id":"DEMO-005","channel":"web_chat","category":"new_booking","priority":"normal","follow_up_required":false,"opportunity":true},
+  {"id":"DEMO-006","channel":"email","category":"other","priority":"low","follow_up_required":false,"opportunity":false},
+  {"id":"DEMO-007","channel":"voice","category":"service_request","priority":"urgent","follow_up_required":true,"opportunity":false},
+  {"id":"DEMO-008","channel":"email","category":"sales","priority":"normal","follow_up_required":true,"opportunity":true}
+]
